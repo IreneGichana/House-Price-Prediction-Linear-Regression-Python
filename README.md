@@ -1,4 +1,4 @@
-# Linear-Regression
+# House Price Prediction using Linear-Regression
 Linear regression is a supervised learning technique that models the relationship between a dependent variable and one or more independent variables. This project focuses on implementing a simple linear regression model using Python to predict house prices based on features such as area, number of bedrooms, and the age of the house. The goal of the project is to understand how house characteristics affect their prices and to build a simple predictive model.
 
 ## Dataset
